@@ -1,0 +1,31 @@
+body {
+    background: #b4eeee;
+}
+h5 {
+    text-align: center;
+}
+div {
+    background-color: blanchedalmond;
+    height: 100px;
+    /* changes seen in height or width*/
+}
+span {
+    background-color: aquamarine;
+    height: 100px;
+    /* no change, takes only requires space*/
+}
+
+/* denotion of id, targets one element */
+#ab1 {
+    background-color: burlywood;
+    text-align: center;
+}
+p {
+    font-size: xx-large;
+}
+
+/* denotion of class, targets multiple elements */
+.x {
+    text-decoration: underline;
+    background-color: lavenderblush;
+}
